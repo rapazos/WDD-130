@@ -1,0 +1,7 @@
+header{
+    background-color: blanchedalmond;
+    display: flex;
+}
+header img{
+    width: 50%;
+}
